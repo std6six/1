@@ -1,1 +1,1 @@
-# fox
+# static js
